@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyTouchStudy_2017_3", "EasyTouchStudy_2017_3.csproj", "{E19404E0-858A-DC50-8DB5-4A151F01CC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyTouchStudy_2017_3.Editor", "EasyTouchStudy_2017_3.Editor.csproj", "{431E5D7C-09B2-60DD-E4C0-8FBB60E36199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19404E0-858A-DC50-8DB5-4A151F01CC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19404E0-858A-DC50-8DB5-4A151F01CC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19404E0-858A-DC50-8DB5-4A151F01CC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19404E0-858A-DC50-8DB5-4A151F01CC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{431E5D7C-09B2-60DD-E4C0-8FBB60E36199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431E5D7C-09B2-60DD-E4C0-8FBB60E36199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431E5D7C-09B2-60DD-E4C0-8FBB60E36199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431E5D7C-09B2-60DD-E4C0-8FBB60E36199}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
